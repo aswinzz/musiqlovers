@@ -15,4 +15,12 @@ Those who wish to contribute in this project are warmly welcome,Add more feature
 * Open `localhost:3000` in any browser
 
 
+# Take A Look-
+
+![scr1](scr1.png)
+
+![scr2](scr2.png)
+
+
+
  
